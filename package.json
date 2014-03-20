@@ -1,6 +1,6 @@
 {
   "name": "get-github-token",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "prompt the user for credentials for a github oauth token",
   "main": "index.js",
   "scripts": {
