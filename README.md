@@ -2,6 +2,8 @@
 
 Prompt the user for username/password to get a github token. Works with TFA.
 
+![an example](https://f.cloud.github.com/assets/37303/2469021/bdd8ecf2-afea-11e3-92ce-968a3f186752.gif)
+
 ```javascript
 var getToken = require('get-github-token')
 
