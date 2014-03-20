@@ -1,0 +1,33 @@
+{
+  "name": "get-github-token",
+  "version": "0.0.0",
+  "description": "prompt the user for credentials for a github oauth token",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/chrisdickinson/get-github-token.git"
+  },
+  "keywords": [
+    "github",
+    "token",
+    "oauth",
+    "porcelain"
+  ],
+  "author": "Chris Dickinson <chris@neversaw.us> (http://neversaw.us/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chrisdickinson/get-github-token/issues"
+  },
+  "homepage": "https://github.com/chrisdickinson/get-github-token",
+  "devDependencies": {
+    "mock": "^0.1.1",
+    "tape": "^2.10.2"
+  },
+  "dependencies": {
+    "github": "^0.1.14",
+    "promfig": "^0.1.2"
+  }
+}
